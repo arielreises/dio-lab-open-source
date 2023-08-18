@@ -21,6 +21,6 @@ Atualmente participando do Santander Bootcamp 2023 - Ciência de Dados com Pytho
 ![Teamwork](https://img.shields.io/badge/Teamwork-green)
 
 ### **Social Media**
-[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-green)](https://web.dio.me/users/arielreises2)
+[![Perfil DIO](https://img.shields.io/badge/DIO/PERFIL-green)](https://dio.me/users/arielreises2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-green)](https://www.linkedin.com/in/arielreises/)
 [![GitHub](https://img.shields.io/badge/GitHub-green)](https://github.com/arielreises)
